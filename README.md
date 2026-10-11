@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
@@ -984,3 +983,18 @@ function clearHistory() {
 </script>
 </body>
 </html>
+  "icons": [
+    {
+      "src": "./IMG_6357.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./IMG_6357.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
